@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9a9C2f08C9C2609a4383c9Ff80DED92D4d3D31A5",
+  "SCAN_LINK": "https://polygonscan.com/address/0x9a9C2f08C9C2609a4383c9Ff80DED92D4d3D31A5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Simple Owl club",
+  "SYMBOL": "SOC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/simpleowlclub",
+  "SHOW_BACKGROUND": false
+}
